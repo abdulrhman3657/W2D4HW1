@@ -1,0 +1,39 @@
+body{
+    background-image: url("image6.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    color: white;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: rgb(206, 43, 43);
+    border: none;
+    border-radius: 0.2em;
+    padding: 0.7em;
+}
+
+img{
+    width: 70%;
+    height: 70%;
+}
+
+div{
+    justify-content: center;
+    text-align: center;
+}
+
+table, th, td {
+    border: 0.1em solid;
+    border-collapse: collapse;
+    padding: 0.25em;
+    background-color: rgb(77, 85, 204);
+    text-align: center;
+}
